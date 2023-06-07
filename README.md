@@ -22,3 +22,7 @@ Para entornos de producción que no tienen aplicaciones de Dynamics 365 habilita
 
 Cada cuanto se realizan las copias de seguridad: 
 https://learn.microsoft.com/es-es/azure/azure-sql/database/automated-backups-overview?view=azuresql
+
+
+Seguridad:
+https://learn.microsoft.com/es-es/power-platform/admin/security/overview
