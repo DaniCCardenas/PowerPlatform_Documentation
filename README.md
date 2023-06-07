@@ -26,3 +26,8 @@ https://learn.microsoft.com/es-es/azure/azure-sql/database/automated-backups-ove
 
 Seguridad:
 https://learn.microsoft.com/es-es/power-platform/admin/security/overview
+https://learn.microsoft.com/es-es/power-platform/admin/security/data-storage
+https://learn.microsoft.com/es-es/power-platform/admin/security/authenticate-services
+
+Ofertas de cumplimiento de MS:
+https://learn.microsoft.com/es-es/compliance/regulatory/offering-home
