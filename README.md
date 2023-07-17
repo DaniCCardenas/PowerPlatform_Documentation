@@ -31,3 +31,6 @@ https://learn.microsoft.com/es-es/power-platform/admin/security/authenticate-ser
 
 Ofertas de cumplimiento de MS:
 https://learn.microsoft.com/es-es/compliance/regulatory/offering-home
+
+Limites de Power Automate:
+https://learn.microsoft.com/en-us/power-automate/limits-and-config
